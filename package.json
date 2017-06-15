@@ -1,6 +1,6 @@
 {
   "name": "react-vue-material-demo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "react-vue demo",
   "main": "index.js",
   "scripts": {
@@ -18,8 +18,8 @@
     "element.scrollintoviewifneeded-polyfill": "^1.0.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "react-vue": "^0.0.1",
-    "react-vue-helper": "^0.0.1",
+    "react-vue": "^0.0.2",
+    "react-vue-helper": "^0.0.2",
     "vue-material": "^0.7.1"
   },
   "devDependencies": {
@@ -39,7 +39,7 @@
     "node-sass": "^4.5.3",
     "raw-loader": "^0.5.1",
     "react-hot-loader": "^1.3.1",
-    "react-vue-loader": "^0.0.1",
+    "react-vue-loader": "^0.0.2",
     "sass-loader": "^6.0.6",
     "url-loader": "^0.5.9",
     "vue-style-loader": "^3.0.1",
