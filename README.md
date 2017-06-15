@@ -4,7 +4,6 @@ This demo runs [vue-material](https://github.com/vuematerial/vue-material) in Re
 
 ## Install
 ```
-git clone 
 npm install
 npm start
 ```
