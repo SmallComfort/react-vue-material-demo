@@ -5,7 +5,7 @@ This demo runs [vue-material](https://github.com/vuematerial/vue-material) compo
 ## Install
 ```
 npm install
-npm start
+npm run dev
 ```
 
 ## Supported Component
