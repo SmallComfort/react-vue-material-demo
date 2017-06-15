@@ -1,6 +1,6 @@
 # React-Vue-Material-Demo
 
-This demo runs [vue-material](https://github.com/vuematerial/vue-material) in React runtime, two-thirds of which could run on React
+This demo runs [vue-material](https://github.com/vuematerial/vue-material) components in React runtime, two-thirds of which could run on React
 
 ## Install
 ```
