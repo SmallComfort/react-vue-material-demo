@@ -18,8 +18,8 @@
     "element.scrollintoviewifneeded-polyfill": "^1.0.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "react-vue": "^0.0.2",
-    "react-vue-helper": "^0.0.2",
+    "react-vue": "^0.0.3",
+    "react-vue-helper": "^0.0.3",
     "vue-material": "^0.7.1"
   },
   "devDependencies": {
@@ -35,6 +35,7 @@
     "babel-preset-stage-0": "^6.24.1",
     "css-loader": "^0.28.4",
     "eslint": "^4.0.0",
+    "eslint-plugin-html": "^3.0.0",
     "eslint-plugin-react": "^7.0.1",
     "node-sass": "^4.5.3",
     "raw-loader": "^0.5.1",
