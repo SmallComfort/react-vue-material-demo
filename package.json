@@ -19,7 +19,7 @@
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "react-vue": "^0.0.3",
-    "react-vue-helper": "^0.0.3",
+    "react-vue-helper": "^0.0.4",
     "vue-material": "^0.7.1"
   },
   "devDependencies": {
